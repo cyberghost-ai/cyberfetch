@@ -15,7 +15,7 @@ To run CyberFetch on your local machine, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/CyberFetch.git
+git clone https://github.com/cyberghost-ai/CyberFetch.git
 cd CyberFetch
 
 # Install dependencies
